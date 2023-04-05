@@ -15,6 +15,6 @@ We can formulate the problem as a Mixed Integer Linear Programming (MILP) proble
 - Every point on the map should be reachable within a given time limit t2. 
 - A point is considered effectively reachable only if it can be accessed by at least two medical centers within a shorter time limit t1 (t1<t2).
 
-**Data Source** - 
+## Data Source 
 https://github.com/bstabler/TransportationNetworks
 
